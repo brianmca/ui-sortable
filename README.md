@@ -1,4 +1,5 @@
 # UI.Sortable directive [![Build Status](https://travis-ci.org/angular-ui/ui-sortable.png)](https://travis-ci.org/angular-ui/ui-sortable) [![Coverage Status](https://coveralls.io/repos/angular-ui/ui-sortable/badge.png?branch=master)](https://coveralls.io/r/angular-ui/ui-sortable?branch=master)
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/brianmca/ui-sortable?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This directive allows you to sort an array with drag & drop.
 
